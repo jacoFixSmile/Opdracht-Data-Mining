@@ -1,0 +1,5 @@
+EFFICENTIE:
+In casualties kijken naar de Casualty_Class en die gene verwijderen waar het passagiers zijn
+
+VISUALIZATIE:
+Map tonen van accidenten per jaar
